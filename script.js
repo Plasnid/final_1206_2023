@@ -17,7 +17,7 @@ let letters  = [
 ]
 
 /**
- * ! Q2a:  Take the sentence below, and using the split command, transform
+ * ! Q1b:  Take the sentence below, and using the split command, transform
  * ! it into an array, then console log it in the opposite order.
  * * eg. 
  * ! great is cheese think I 
